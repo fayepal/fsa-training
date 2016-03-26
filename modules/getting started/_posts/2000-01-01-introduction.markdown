@@ -14,4 +14,4 @@ At Mozilla, speaking up your mind is vital in ensuring that we activate healthy 
 
 Discuss at the [FSA Discourse forum](https://discourse.mozilla-community.org/c/firefox-student-ambassadors)
 
-Send us an e-mail at firefoxstudents[at]mozilla.com.
+Send us an e-mail at fsaeboard[at]mozilla[dot]org.
